@@ -7,7 +7,11 @@ Instructions should be simple enough to follow as they come up in the program, i
 
 
 Help requested/to-do
+
 A better way to do vertical disc and washer volumes
+
 A view for what type of shape is being used when finding the fomue with a shape
+
 More shape options
+
 Cleaning up the code to make more sense and be more efficient
